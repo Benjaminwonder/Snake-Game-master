@@ -1,2 +1,3 @@
 # Snake-Game-master
- Just an ordinary snake game in motion searching and eating food
+ Just a version of the legendary snake game where the user controls the snake in motion to find randomly displaced foods on a grid.
+ It's just a simple code written in python.
